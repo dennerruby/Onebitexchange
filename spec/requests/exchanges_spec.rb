@@ -1,9 +1,5 @@
 require 'rails_helper'
-<<<<<<< HEAD
-
-=======
  
->>>>>>> system-test
  
 RSpec.describe 'Exchanges', type: :request do
   describe 'GET #index' do
@@ -12,13 +8,8 @@ RSpec.describe 'Exchanges', type: :request do
       expect(response).to have_http_status(200)
     end
   end
-<<<<<<< HEAD
-
-
-=======
  
  
->>>>>>> system-test
   describe 'GET #convert' do
     before do
       @amount = rand(1..9999)
@@ -33,8 +24,5 @@ RSpec.describe 'Exchanges', type: :request do
       expect(response).to have_http_status(200)
     end
   end
-<<<<<<< HEAD
 end
-=======
-end
->>>>>>> system-test
+
