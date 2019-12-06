@@ -1,24 +1,14 @@
-# README
+Onebitexchange : È um converso de moedas que converte (exp BRL) em uma quantidade corrrespondente em (exp EUR).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Stack do APP: 
+Docker
+Docker-compose
+Ruby,Ruby on Rails
+Rest-client
+webmock
+yarn
+PostgreSql
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deploy:
+Codeship
+Heroku
