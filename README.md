@@ -53,7 +53,8 @@ Here are the technologies used in this project.
  
 ## Authors
  
-* **Denner Viana Nunes**: @Dennerruby (https://github.com/dennerruby)
+* **Denner Viana Nunes**
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dennerruby)](https://github.com/dennerruby)
  
  
 Please follow github and join us!
