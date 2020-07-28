@@ -59,4 +59,4 @@ Here are the technologies used in this project.
 Please follow github and join us!
 
 Programming is an art!
-Programming is an art
+
