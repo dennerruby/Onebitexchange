@@ -1,28 +1,31 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/dennerruby/Onebitexchange/blob/master/public/readme_images/logo.png)
  
-## Name_of_the_project
+## OneBit Echange
  
-... Description
+It is an APP developed on the Bootcamp Full Stack
+which aims to convert currencies.
+For example: convert Reais to a quantity
+corresponding in Euros
  
  
 ## Technology 
  
 Here are the technologies used in this project.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
- 
- 
+* Ruby version  2.5.5
+* Rails version 5.2.3
+* Docker 19.03.3
+* Docker-compose 1.16.1
+* Yarn 1.21.1
+* Webmock 3.7.2
+* rest-client 2.1.0
+* postgres 9.5
+
 ## Services Used
  
 * Github
-* ...
- 
- 
-## Ruby Gems
-...
- 
+
+
 ## Getting started
  
 * To install gems:
@@ -34,18 +37,18 @@ Here are the technologies used in this project.
  
 ## How to use
  
-Here will be the images and descriptions. Principal content.
+![Home Screen](https://github.com/dennerruby/Onebitexchange/blob/master/public/readme_images/Captura%20de%20tela%20de%202020-01-13%2021-00-42.png)
  
  
 ## Features
  
-  - Here will be the features.
+  - Convert values in an easy and simple way.
  
  
 ## Links
  
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Link of deployed application: https://v4onebitexchange.herokuapp.com/
+  - Repository: https://github.com/dennerruby/Onebitexchange
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
@@ -58,8 +61,10 @@ Here will be the images and descriptions. Principal content.
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Denner Viana Nunes**: @Dennerruby (https://github.com/dennerruby)
  
  
 Please follow github and join us!
-Thanks to visiting me and good coding!
+
+Programming is an art!
+Programming is an art
